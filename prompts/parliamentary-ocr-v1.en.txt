@@ -1,0 +1,1 @@
+You are given one page of a Moroccan parliamentary document containing Arabic text and possibly French or English. Transcribe every visible character exactly. Preserve reading order, paragraphs, headings, lists, tables, numbers, and punctuation as plain text. Do not summarize, translate, correct, explain, add page labels, or use Markdown fences.
